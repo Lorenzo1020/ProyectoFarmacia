@@ -9,13 +9,6 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		//Daniel: 9
-		//Dylan: 7
-		//Irving: 5
-		
-		//Se agrega este codigo
-		System.out.println("Hola mundo "+100);
 
 		Scanner lectura = null;
 
